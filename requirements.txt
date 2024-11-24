@@ -3,4 +3,13 @@ numpy
 scikit-learn
 streamlit
 ipykernel
+matplotlib
+pandas_datareader
+yfinance 
+seaborn
+plotly
+nbformat
+keras
+tensorflow
+flask 
 -e .
